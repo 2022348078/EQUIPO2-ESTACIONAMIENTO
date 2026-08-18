@@ -1,0 +1,23 @@
+# STM32CubeIDE
+**/Debug/
+**/Release/
+
+# Archivos de compilacion
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+
+# Archivos generados por compilacion
+**/makefile
+**/objects.mk
+**/objects.list
+**/sources.mk
+**/subdir.mk
+
+# Temporales
+*.bak
+*.tmp
